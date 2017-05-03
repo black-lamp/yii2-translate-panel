@@ -4,6 +4,8 @@
 
 This module based on [i18n (internalization) module](https://github.com/zelenin/yii2-i18n-module) with greatly improved usability in mind (see screen shots below).
 
+Forked from [uran1980/yii2-translate-panel](https://github.com/uran1980/yii2-translate-panel).
+
 ![Yii2 Translate Panel screens](https://cloud.githubusercontent.com/assets/1616795/6514529/d91e4a1a-c38b-11e4-80d2-3642ccce04d0.png)
 
 
@@ -22,13 +24,13 @@ The preferred way to install this extension is through [Composer](http://getcomp
 Either run
 
 ```
-php composer.phar require uran1980/yii2-translate-panel "dev-master"
+php composer.phar require black-lamp/yii2-translate-panel "*"
 ```
 
 or add
 
 ```
-"uran1980/yii2-translate-panel": "dev-master"
+"black-lamp/yii2-translate-panel": "*"
 ```
 
 to the require section of your ```composer.json```
