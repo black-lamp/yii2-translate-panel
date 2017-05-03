@@ -1,7 +1,6 @@
 {
-    "name": "uran1980/yii2-translate-panel",
+    "name": "black-lamp/yii2-translate-panel",
     "description": "Yii2 Translate Panel makes the translation of your application awesome!",
-    "version": "0.1.25",
     "type": "yii2-extension",
     "keywords": [
         "yii2",
@@ -32,7 +31,8 @@
         "uran1980/yii2-igrowl-widget": "*",
         "uran1980/yii2-chosen-select": "*",
         "uran1980/yii2-bootstrap-confirmation": "*",
-        "uran1980/yii2-jquery-essential": "*"
+
+        "bower-asset/jquery-form": "<4.0.0"
     },
     "autoload": {
         "psr-4": {
